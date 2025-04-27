@@ -7,17 +7,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo"  />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="discord logo"  />
 </div>
 
 ###
 
-<h4 align="center">Developer<br>Azure Modded</h4>
+<h1 align="center">Developer<br>Azure Modded</h1>
 
 ###
